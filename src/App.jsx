@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import HeaderAnimated from "./components/header1/HeaderAnimated";
 import BannerAnimated from "./components/banner1/BannerAnimated";
-import SobreMi from "./components/sobreMi/sobreMi";
+import SobreMi from "./components/sobreMi/SobreMi";
 import Experiencia from "./components/experiencia/Experiencia";
 import VolverAl99 from "./components/volverAl99/VolverAl99"
 import Contacto from "./components/contacto/Contacto";
