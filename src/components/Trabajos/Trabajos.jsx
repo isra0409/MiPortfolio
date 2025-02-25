@@ -51,18 +51,7 @@ const Trabajos = () => {
       descripcion: "Modelo de landing page para una pizzeria, maquetado de secciones y agregado de funcionalidades basicas. Realizado en HTML, CSS y JavaScript, sin uso de librerias externas.",
     },
 
-    {
-      portada: portada4,
-      img: img4,
-      titulo: "Back to 90",
-      descripcion: "Proyecto de un blog/page años 90. Este proyecto cuenta con tablas (una manera de codear que se utilizaba antes), era sumamente dificil poder dar estilos y cosas a estas tablas por eso es que los sitios de antes eran tan iguales, todo encimado, una cosa debajo de la otra. Tambien cuenta en sus secciones con info de acontecimientos relevante de los años 90. La idea con este proyecto es poder transportar a la persona un poco atras en el tiempo de la navegacion web :). Realizado en React con Vite.",
-    },
-    {
-      portada: portada5,
-      img: img5,
-      titulo: "Estudio3",
-      descripcion: "Landing page para un estudio grafico, cuenta con distintas secciones, todas a modo informativa. Realizado en HTML, CSS Y JavaScript. Sin librerias externas.",
-    },
+
 
 
   ];
