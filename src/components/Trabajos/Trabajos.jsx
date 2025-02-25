@@ -63,8 +63,6 @@ const Trabajos = () => {
       titulo: "Estudio3",
       descripcion: "Landing page para un estudio grafico, cuenta con distintas secciones, todas a modo informativa. Realizado en HTML, CSS Y JavaScript. Sin librerias externas.",
     },
-
-
   ];
 
   const openModal = (img, descripcion) => {
