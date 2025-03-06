@@ -11,6 +11,7 @@ import portada3 from "../../assets/urbanspotsportada.png";
 import portada4 from "../../assets/volveral90portada.png";
 import portada7 from "../../assets/volfportada.png";
 import videoEcommerce from "../../assets/ecommerce.mp4";
+import videoPolaroid from "../../assets/polaroidvid.mp4"
 
 import "./styles.css";
 
@@ -27,6 +28,15 @@ const Trabajos = () => {
       descripcion:
         "Desarrollo completo del frontend para un e-commerce, incluyendo barra de búsqueda, galería de productos dinámicos desde una API, ficha de producto, checkout, pantallas de confirmación y carrito de compras. Todo implementado en React con Bootstrap 5 y CSS, sin librerías externas. Para la gestión de estados se utilizó useContext, manteniendo un código modularizado con componentes personalizados.",
     },
+
+    {
+      portada: portada4,
+      video: videoPolaroid,
+      titulo: "Polaroid estética vehicular",
+      descripcion:
+        "Desarrollo de landing page para un centro estetico vehicular. Realizado en React y Bootstrap5",
+    },
+
     {
       portada: portada7,
       img: img7,
